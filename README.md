@@ -10,7 +10,7 @@ Some of my expertice:
 
 - [OAuth2](https://oauth.net/2/) — Grant-type walkthroughs and callback hardening notes.
 - [OIDC](https://openid.net/developers/how-connect-works/) — Discovery metadata, RP configuration, and hosted login tuning.
-- [MCP Auth](https://docs.scalekit.com/mcp/auth) — Session posture policies and enforcement examples.
+- [MCP Auth](https://docs.scalekit.com/mcp/auth) — DCR, CIMD and live examples.
 
 ### Collaborate
 1. Need a pragmatic take on authentication and authorization (SSO, SCIM, OAuth2, OIDC, MCP Auth)? Open an issue and I am happy to pair.
