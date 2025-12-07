@@ -5,12 +5,13 @@ Building identity infra and tooling at [Scalekit](https://scalekit.com).
 
 Some of my expertice:
 
+- [MCP Auth](https://docs.scalekit.com/mcp/overview) — DCR, CIMD and live examples.
 - [SSO](https://docs.scalekit.com/sso/overview) — Enterprise rollout playbooks and hosted login guidance.
 - [SCIM](https://docs.scalekit.com/scim/quickstart) — Provisioning schemas, error handling, and connector validation.
 
 - [OAuth2](https://oauth.net/2/) — Grant-type walkthroughs and callback hardening notes.
 - [OIDC](https://openid.net/developers/how-connect-works/) — Discovery metadata, RP configuration, and hosted login tuning.
-- [MCP Auth](https://docs.scalekit.com/mcp/auth) — DCR, CIMD and live examples.
+
 
 ### Collaborate
 1. Need a pragmatic take on authentication and authorization (SSO, SCIM, OAuth2, OIDC, MCP Auth)? Open an issue and I am happy to pair.
